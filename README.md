@@ -1,5 +1,5 @@
-# This is a simple book reading list
+# This is a simple book reading list app
 
 ## Using react context and addReducer hook
 
-Live [Create React App](https://github.com/facebook/create-react-app).
+[Live](https://github.com/facebook/create-react-app).
